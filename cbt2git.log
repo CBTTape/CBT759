@@ -1,0 +1,16 @@
+2023-04-03 02:27:46.501668 - Initialized conversion of CBT759
+2023-04-03 02:27:46.593461 - Received CBT.V504.FILE759.PDS from FILE759.XMI 
+2023-04-03 02:27:46.596250 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:27:46.597826 - Found $$INST.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/$$INST
+2023-04-03 02:27:46.597840 - Found $$NOTE1.bin containing application/octet-stream, moved to PDS/$$NOTE1
+2023-04-03 02:27:46.600272 - Found @FILE759.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/@FILE759
+2023-04-03 02:27:46.601410 - Found ASMCAPX.jcl (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/ASMCAPX
+2023-04-03 02:27:46.602526 - Found ASMMAP.jcl (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/ASMMAP
+2023-04-03 02:27:46.603574 - Found ASMPRNT.jcl (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/ASMPRNT
+2023-04-03 02:27:46.604604 - Found ASMTRAN.jcl (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/ASMTRAN
+2023-04-03 02:27:46.605776 - Found CAPXPRNT.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/CAPXPRNT
+2023-04-03 02:27:46.606827 - Found CAPXRDO.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/CAPXRDO
+2023-04-03 02:27:46.607841 - Found CAPXTRAN.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/CAPXTRAN
+2023-04-03 02:27:46.608891 - Found CAPXTRN.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/CAPXTRN
+2023-04-03 02:27:46.609874 - Found CSQCAPX.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/CSQCAPX
+2023-04-03 02:27:46.610838 - Found SITOVER.txt (text/plain) in CBT.V504.FILE759.PDS, moved to PDS/SITOVER
